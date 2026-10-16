@@ -13,6 +13,7 @@ nest-asyncio2==1.7.3
 numpy==2.5.3
 packaging==26.3
 pandas==3.0.6
+pandas-stubs==3.0.5.260914
 parso==0.8.7
 pexpect==4.9.0
 platformdirs==4.12.0
